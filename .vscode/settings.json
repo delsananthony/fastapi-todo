@@ -1,0 +1,5 @@
+{
+    "python.terminal.activateEnvironment": true,
+    "terminal.integrated.profile.windows": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "python.condaPath": "C:\\ProgramData\\Anaconda3\\Scripts\\conda.exe"
+}
